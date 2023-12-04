@@ -1,0 +1,1 @@
+! Sempre definir tamanho de todos os itens,senão o navegador colocará como padrão.
